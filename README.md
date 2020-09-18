@@ -27,3 +27,12 @@ Run the API server
 ```sh
 $ rails s
 ```
+
+
+https://medium.com/@nandhae/2019-how-i-set-up-authentication-with-jwt-in-just-a-few-lines-of-code-with-rails-5-api-devise-9db7d3cee2c0
+
+
+
+Parameters: {"user"=>{"email"=>"user@example.com", "password"=>"[FILTERED]"}, "session"=>{"user"=>{"email"=>"user@example.com", "password"=>"[FILTERED]"}}}
+
+Parameters: {"user"=>{"email"=>"user@example.com", "password"=>"[FILTERED]"}, "session"=>{"user"=>{"email"=>"user@example.com", "password"=>"[FILTERED]"}}}
